@@ -1,0 +1,90 @@
+{
+  "data": [
+    {
+      "id": "K-001",
+      "data": {
+        "name": "Andy",
+        "gender": "M",
+        "grade": 1,
+        "kelas": "C",
+        "old": 6,
+        "nik": "0001",
+        "skill": [
+          {
+            "sid": "001",
+            "name": "memasak"
+          },
+          {
+            "sid": "002",
+            "name": "menjahit"
+          }
+        ]
+      }
+    },
+    {
+      "id": "M-001",
+      "data": {
+        "name": "Clara",
+        "gender": "F",
+        "grade": 2,
+        "kelas": "B",
+        "old": 7,
+        "nik": "0002",
+        "skill": [
+          {
+            "sid": "001",
+            "name": "memasak"
+          },
+          {
+            "sid": "003",
+            "name": "coding"
+          }
+        ]
+      }
+    },
+    {
+      "id": "M-002",
+      "data": {
+        "name": "Zahra",
+        "gender": "F",
+        "grade": 3,
+        "kelas": "A",
+        "old": 8,
+        "nik": "0003",
+        "skill": [
+          {
+            "sid": "003",
+            "name": "coding"
+          }
+        ]
+      }
+    },
+    {
+      "id": "K-002",
+      "data": {
+        "name": "Jack",
+        "gender": "M",
+        "grade": 4,
+        "kelas": "D",
+        "old": 9,
+        "nik": "0004",
+        "skill": [
+          {
+            "sid": "001",
+            "name": "memasak"
+          },
+          {
+            "sid": "002",
+            "name": "menjahit"
+          },
+          {
+            "sid": "003",
+            "name": "coding"
+          }
+        ]
+      }
+    }
+  ],
+  "status": 1,
+  "message": "fetch complete"
+}
