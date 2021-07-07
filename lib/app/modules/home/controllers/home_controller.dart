@@ -4,7 +4,7 @@ import 'dart:io';
 
 import 'package:file_picker/file_picker.dart';
 import 'package:get/get.dart';
-import 'package:itmandiri/app/modules/home/models/datamodel.dart';
+import 'package:itmandiri/app/data/models/datamodel.dart';
 import 'package:collection/collection.dart';
 
 class HomeController extends GetxController {
